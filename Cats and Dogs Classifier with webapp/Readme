@@ -1,0 +1,2 @@
+In this Project we implemented Transferlearning with VGG16 neural Net. We eliminated the top layer and trained the existing model for 4 top layers after adding few more layers and the entire model Architecture is shown with Visual Keras Module.
+We first trained and saved the model. Then again re-uploaded the trained model to check its accuracy on the training and validation set. Then released the model for builiding a web app with streamlit
