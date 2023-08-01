@@ -1,1 +1,1 @@
-CNN used for Handwritten Digit classification
+# CNN used for Handwritten Digit classification
